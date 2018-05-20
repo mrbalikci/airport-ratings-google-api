@@ -1,6 +1,4 @@
-# airport-ratings-google-api
-
-# Google API - Airport Analysis
+# AIRPORT RATINGS BY GOOGLE API CALLS
 
 Created a Data Frame containing the rating of every airport in the top 100 US metropolitan areas according to Google Users. 
 
