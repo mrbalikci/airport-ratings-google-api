@@ -2,7 +2,7 @@
 
 Created a Data Frame containing the rating of every airport in the top 100 US metropolitan areas according to Google Users. 
 
-## Details
+### Details
 
 * Utilized the Google Geocoding API, the Google Places API, and Python/Jupyter, created a script that lists the "Airport Rating" of the major "International Airport" in each the top 100 metropolitan areas found in `Cities.csv`.
 
