@@ -22,7 +22,7 @@ Created a Data Frame containing the rating of every airport in the top 100 US me
 
   7. `Airport Rating`
 
-## Output 
+### Output 
 * The final output of 100 US metropolitan areas according to Google Users is saved as a csv file under `Airport_Output.csv`
 
 ### Tools Used
