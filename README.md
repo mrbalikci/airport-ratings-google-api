@@ -1,6 +1,6 @@
 # AIRPORT RATINGS BY GOOGLE API CALLS
 
-Created a Data Frame containing the rating of every airport in the top 100 US metropolitan areas according to Google Users. 
+Created a Data Frame containing the rating of every airport in the top 100 US metropolitan areas according to Google Users.
 
 ### Details
 
@@ -30,5 +30,6 @@ Created a Data Frame containing the rating of every airport in the top 100 US me
 * Jupyter Notebook
 * Pandas
 * Google API
+* Google Places API
 * GeoCoding API
 * Numpy
